@@ -7,12 +7,20 @@ This widget the alternative to a widget [Repeater](http://octobercms.com/docs/ba
 How to use:
 ======
 
-##### 1. Just add into your plugin or prohect composer.json:
+##### 0.1 Create a json or jsonb or text field in a database.
+
+##### 0.2 Add in model:
+```php
+public $jsonable = ['config'];
+```
+
+
+##### 1. Just add into your plugin or project composer.json:
 
 ```javascript
 {
     "require": {
-        "reg2005/oc-jsonable": "dev-master"
+        "reg2005/oc-jsonable": "1.0.*"
     }
 }
 ```
