@@ -1,4 +1,4 @@
-Form widget for October CMS!
+Jsonable form widget for October CMS!
 ======
 This widget the alternative to a widget [Repeater](http://octobercms.com/docs/backend/forms#widget-repeater) allows to write data to jsonable field also as well as "Repeater".
 
