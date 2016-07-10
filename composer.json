@@ -1,7 +1,7 @@
 {
   "name": "reg2005/oc-jsonable",
   "type": "library",
-  "description": 'This widget the alternative to a widget "Repeater" allows to write data to jsonable field also as well as "Repeater", but does not give the chance to do repetitions of fields. I.e. the array will look so:',
+  "description": "This widget the alternative to a widget 'Repeater' allows to write data to jsonable field also as well as 'Repeater', but does not give the chance to do repetitions of fields. I.e. the array will look so:",
   "keywords": [
     "October CMS"
   ],
