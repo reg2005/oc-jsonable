@@ -1,0 +1,1 @@
+Only for October CMS! This widget the alternative to a widget "Repeater" allows to write data to jsonable field also as well as "Repeater".

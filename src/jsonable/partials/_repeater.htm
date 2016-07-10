@@ -1,0 +1,15 @@
+<div class="field-jsonable" data-control="fieldrepeater">
+
+    <div id="<?= $this->getId('items') ?>">
+        <?php foreach ($this->formWidgets as $index => $widget): ?>
+            <?= $this->makePartial('repeater_item', [
+                'widget' => $widget,
+                'indexValue' => $index
+            ]) ?>
+        <?php endforeach ?>
+    </div>
+
+    <?php echo $this->rendered_fields; ?>
+
+</div>
+
