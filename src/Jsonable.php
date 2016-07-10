@@ -1,4 +1,4 @@
-<?php namespace Reg2005\Widgets;
+<?php namespace reg2005\Widgets;
 
 use Backend\Classes\FormField;
 use Backend\Classes\FormWidgetBase;
